@@ -1,4 +1,4 @@
 ﻿hello world!
 你好!
 本地仓库修改，提交到远程仓库，push
-git push origin main
+先pull，然后创建分支，再push。
